@@ -1,4 +1,8 @@
-## Welcome to GitHub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">:ERASTUS GATHAGE
+## Welcome to GitHub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">:ERASTUS GATHAGE![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRVIVEK-CODER&show_icons=true&theme=highcontrast)
+
+
+<hr style="height:2px;border-width:0;color:gray;background-color:Dark">
+<!-- 
 
 
 <p align="center"><a href="https://github.com/MRVIVEK-CODER"><img src="https://j.top4top.io/p_1966skgw80.jpg" height='195' alt="VivekXD">  <img src="https://github.com/jglovier/gifs/blob/gh-pages/web-dev/family-guy-css.gif" width="180px">
