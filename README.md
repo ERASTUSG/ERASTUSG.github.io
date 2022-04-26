@@ -1,5 +1,5 @@
 ## Welcome to GitHub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">:Erastus Gathage
-<img src="https://github.com/jglovier/gifs/blob/gh-pages/web-dev/family-guy-css.gif" width="18px">
+<img src="https://github.com/jglovier/gifs/blob/gh-pages/web-dev/family-guy-css.gif" width="180px">
 
 <p align="center"><a href="https://github.com/MRVIVEK-CODER"><img src="https://j.top4top.io/p_1966skgw80.jpg" height='195' alt="VivekXD">
 <p align="center"><a href="https://wa.me/254711346162"><img title="whatsapp" src="https://img.shields.io/badge/Whatsapp-black?style=for-the-badge&logo=whatsapp"></a>
