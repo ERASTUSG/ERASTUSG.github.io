@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+<img align="center" src="https://github.com/ERASTUSG/ERASTUSG.github.io/edit/main/Developer.gif"/>
 
 You can use the [editor on GitHub](https://github.com/ERASTUSG/ERASTUSG.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
